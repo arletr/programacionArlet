@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Operadores/Fundamentos2/Fundamentos2.iml" filepath="$PROJECT_DIR$/Operadores/Fundamentos2/Fundamentos2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operadores/Operadores.iml" filepath="$PROJECT_DIR$/Operadores/Operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calc.iml" filepath="$PROJECT_DIR$/calc.iml" />
+    </modules>
+  </component>
+</project>
